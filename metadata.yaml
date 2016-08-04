@@ -1,0 +1,41 @@
+_repo: Riders-to-the-Sea_994
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, John Millington
+    - Synge, Edmund John Millington
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: http://en.wikipedia.org/wiki/John_Millington_Synge
+description: Maurya's son Michael has been swept out to the sea, the latest of the
+  men in her household to die. While they wait for his body to wash ashore, the last
+  remaining man in the house, Bartley, decides to take a boat to the mainland for
+  the Connemara horse fair. But Maurya's premonition of the ghost of Michael following
+  Bartley out to sea proves ominous, leaving Maurya and her daughters alone. First
+  performed in 1904, Synge's one-act play 'Riders to the Sea' carries with it the
+  weight of a culture in thrall to the ocean around it, in a style reminiscent of
+  ancient Greek tragedy,at once unmistakably local and inescapably epic.
+gutenberg_bookshelf:
+- One Act Plays
+- Opera
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Drama'
+- !lcc 'PR'
+- !lcsh 'Mothers and sons -- Drama'
+- !lcsh 'Drowning victims -- Drama'
+- !lcsh 'Ireland -- Drama'
+- GITenberg
+title: Riders to the Sea
+url: http://www.gutenberg.org/ebooks/994
