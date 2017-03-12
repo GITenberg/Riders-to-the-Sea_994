@@ -1,5 +1,8 @@
 _repo: Riders-to-the-Sea_994
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Synge, J. M. (John Millington)
@@ -19,6 +22,8 @@ description: Maurya's son Michael has been swept out to the sea, the latest of t
   performed in 1904, Synge's one-act play 'Riders to the Sea' carries with it the
   weight of a culture in thrall to the ocean around it, in a style reminiscent of
   ancient Greek tragedy,at once unmistakably local and inescapably epic.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/994#Riders-to-the-Sea
 gutenberg_bookshelf:
 - One Act Plays
 - Opera
